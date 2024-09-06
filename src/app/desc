@@ -1,0 +1,8 @@
+SERVER COMPONENTS
+All the pages and componets that i will be creating will be server component by default
+-> fetching data from a server
+-> more secure
+
+CLIENT COMPONENTS
+-> interactivity for example if we click a button we want it to do some activity
+-> "Use state" management needed to do such activiity
